@@ -9,4 +9,4 @@ I built a hack that allowed me to automatically challenge players of my choosing
 
 # Results
 
-The hack worked like a charm.  I did feel sort of guilty about gaining an unfair advantage in the ladder, so I made it publicly known what I was doing and offered to run the hack for anyone else that requested it.  Furthermore, after I took over running the ladder for the winter season, I obviously had to cease using the hack.  So it's on the shelf, for now (and until the 2018 summer sesason gets under way!
+The hack worked like a charm.  I was able to challenge players in the top 20, win those matches, and finish in the top 10 at the end of the season.  I did feel sort of guilty about gaining an unfair advantage in the ladder, so I made it publicly known what I was doing and offered to run the hack for anyone else that requested it.  Furthermore, after I took over running the ladder for the winter season, I obviously had to cease using the hack.  So it's on the shelf, for now (and until the 2018 summer sesason gets under way!
