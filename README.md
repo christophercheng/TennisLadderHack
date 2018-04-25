@@ -1,5 +1,5 @@
 # TennisLadderHack
-TennisRungs.Com Ladder Hack
+## TennisRungs.Com Ladder Hack
 
 TennisRungs.com is an online tennis ladder used by the Fort Green Tennis Assocation. In 2017, over 150 folks competed in two ladders managed by the FGTA.  Frustrated by feature limitations with the ladder software, I built a hack that allowed me to automatically challenge players of my choosings -- as soon as they became available to be challenged.  Previously, It became very difficult to challenge players ahead of me. (A player could only be challenged by one person at a time, and everyone wanted to challenge the players at the top of the ladder).
 
